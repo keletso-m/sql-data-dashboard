@@ -54,5 +54,5 @@ A command-line dashboard for managing and visualizing relational data using SQL 
 ## Contact
 
 Keletso Monyamane  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-url) | [GitHub](https://github.com/keletso-m) | keletsomonyamane.dev@gmail.com  
-) | [GitHub](https://github.com/keletso-m) | keletsomonyamane.dev@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-url) | [GitHub](https://github.com/keletso-m)  
+ 
