@@ -23,12 +23,6 @@ A command-line dashboard for managing and visualizing relational data using SQL 
 
 *Detailed setup instructions will be added as development progresses*
 
-## Contact
-
-Keletso Monyamane  
-[LinkedIn](# SQL Data Dashboard
-
-A command-line dashboard for managing and visualizing relational data using SQL queries.
 
 ## Features
 
@@ -54,5 +48,6 @@ A command-line dashboard for managing and visualizing relational data using SQL 
 ## Contact
 
 Keletso Monyamane  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-url) | [GitHub](https://github.com/keletso-m)  
+[LinkedIn]() 
+[GitHub](https://github.com/keletso-m)  
  
